@@ -1,3 +1,6 @@
+# My comments
+There are far way too less instructions to help me figure out what you want and how would you like it. Also, docs were not very helpful to understand it either. So I used LLamaCPP to run a llama2 model on a docker container and tried a few science-related questions and it answered with reasonable answers. This application can be extended to work with a Retrieval Augmented Generation system. If I had an access to extensive search paper dataset, I could build a vector database and generate answers to coming questions. 
+
 # AI Junior Developer Test 
 Welcome! You’ve stepped into the arena – now show us what you’ve got! 
 
